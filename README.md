@@ -13,4 +13,4 @@
 
 [Баг-репорт GUI](https://docs.google.com/spreadsheets/d/10Fw0pzidoNZhi9W5qC7oLjLNQrkcxOLebNSJlAeEzl4/edit#gid=345763335)
 
-[Отчет о выполнении тестирования сайта bf-dev.ru](https://docs.google.com/document/d/1vz-dzyhdkWNVYtMtxNwxBrMOhVEvBB5_yfyub8UUpP4/edit#heading=h.1j9priw0d3mo)
+[Отчет о выполнении тестирования](https://docs.google.com/document/d/1vz-dzyhdkWNVYtMtxNwxBrMOhVEvBB5_yfyub8UUpP4/edit#heading=h.1j9priw0d3mo)
