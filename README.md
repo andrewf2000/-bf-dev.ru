@@ -15,4 +15,4 @@
 
 [Отчет о выполнении тестирования](https://docs.google.com/document/d/1vz-dzyhdkWNVYtMtxNwxBrMOhVEvBB5_yfyub8UUpP4/edit#heading=h.1j9priw0d3mo)
 
-[Главная страница Яндекса](https://docs.google.com/spreadsheets/d/1qvHrps7y_4Mufi2nPUZ75zgl0kClf3CcHXGi1Rbj9VU/edit?usp=sharing)
+[Тест главной страницы Яндекса](https://docs.google.com/spreadsheets/d/1qvHrps7y_4Mufi2nPUZ75zgl0kClf3CcHXGi1Rbj9VU/edit?usp=sharing)
