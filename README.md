@@ -1,4 +1,4 @@
-# Тестирование страницы https://bf-dev.ru
+# Тестирование
 [Чек-лист исследовательского тестирования страницы](https://docs.google.com/spreadsheets/d/1fOb4cTOq7faaPqEitE1sQq8fifWlnQbSjJ5iK60MaQI/edit#gid=261905160)
 
 [Тест-кейс дымовое тестирование](https://docs.google.com/spreadsheets/d/1er9lRenZEAy5qcMTa9uQPqzOsRd6XKz3dmITkKl2auA/edit#gid=372159924)
