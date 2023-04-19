@@ -1,5 +1,7 @@
 # Тестирование
 
+[Тестирование Яндекс браузера и Алисы](https://docs.google.com/document/d/1K3oNnuT2Q3Rb9KfJswlNiYkwpRlH0lUt63fd3DLCou0/edit?usp=sharing)
+
 [Тестовое задание – Исследовательское тестирование медицинской платформы medtouch.org](https://docs.google.com/document/d/1l33dY68lU3EBLHs66aOGVA5dJqBkBflLRw4jHw5vu_E/edit?usp=sharing)
 
 [Чек-лист исследовательского тестирования страницы bf-dev.ru](https://docs.google.com/spreadsheets/d/1fOb4cTOq7faaPqEitE1sQq8fifWlnQbSjJ5iK60MaQI/edit#gid=261905160)
